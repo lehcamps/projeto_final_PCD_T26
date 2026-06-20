@@ -1,3 +1,5 @@
+<img width="350" height="50" alt="Sem nome (350 x 50 px)" src="https://github.com/user-attachments/assets/b1caee91-2eaa-4cc4-94ec-d14ce99b6c14" />
+
 # Projeto Final: Prática em Ciências de Dados (2026)
 
 ## Análise de Fatores de Risco para Diabetes 
