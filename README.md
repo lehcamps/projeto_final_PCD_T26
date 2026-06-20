@@ -2,8 +2,6 @@
 
 # Análise de Fatores de Risco para Diabetes
 
-# Projeto Final Práticas em Ciências de Dados
-
 Esse projeto tem como objetivo explorar os dados de pacientes e descobrir quais características (idade, IMC, glicose...) estão mais relacionadas ao diagnóstico de diabetes.
 
 # Tecnologias utilizadas
