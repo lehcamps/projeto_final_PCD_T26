@@ -1,3 +1,5 @@
+<img width="2535" height="380" alt="Sem nome (2535 x 380 px)" src="https://github.com/user-attachments/assets/ca4c39be-c9e7-44be-9343-85e489580103" />
+
 <img width="2535" height="380" alt="Cabecalho" src="https://github.com/user-attachments/assets/339b352f-d6b0-4bfd-a0a0-db75e9e0922e" />
 
 # Análise de Fatores de Risco para Diabetes
