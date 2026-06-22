@@ -17,7 +17,7 @@ O Claude foi uilizado para melhor esturuturar o projeto e tirar algumas dúvidas
 
 # Instalação e Instruções
 
-Ápos realizar o download do repositório, é necessário criar um ambiente virtual que contenha, no mínimo, as bibliotecas citadas. Em seguida, vá até a pasta que esse repositório foi salvo em seu computadoe e execute o comando em alhum ambiente Jupyter. Isso fará com que o Notebook seja executado no ambiente virtual adequado. Caso as células não estejam executada, clique na ferramenta `Restart Kernel and Run All Cells` no ambiente do Jupyter Lab. A versão do Python utilizada é a 3.13.7.
+Ápos realizar o download do repositório, é necessário criar um ambiente virtual que contenha, no mínimo, as bibliotecas citadas no arquivo `requerimentos`. Em seguida, vá até a pasta que esse repositório foi salvo em seu computador e execute o comando em algum ambiente Jupyter. Isso fará com que o Notebook seja executado no ambiente virtual adequado. Caso as células não estejam executada, clique na ferramenta `Restart Kernel and Run All Cells` no ambiente do Jupyter Lab.
 
 # Professores 
 
