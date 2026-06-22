@@ -38,3 +38,39 @@ Doutorado: Bioinformática e Ecologia de Microrganismos (USP). Pós-Doutorado: L
 ## Leticia Campos da Silva
 
 Técnica em Edificações e estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
+
+## Referências
+
+**Dataset**
+
+SMITH, J. W. et al. Using the ADAP learning algorithm to forecast the onset of diabetes mellitus.
+**Proceedings of the Annual Symposium on Computer Application in Medical Care**, Washington, p. 261–265, 1988.
+
+NATIONAL INSTITUTE OF DIABETES AND DIGESTIVE AND KIDNEY DISEASES.
+**Pima Indians Diabetes Database**. UCI Machine Learning Repository, 1988.
+Disponível em: https://archive.ics.uci.edu/dataset/34/diabetes. Acesso em: 01 jun. 2026.
+
+---
+
+**Bibliotecas utilizadas**
+
+MCKINNEY, W. Data structures for statistical computing in Python.
+**Proceedings of the 9th Python in Science Conference**, Austin, v. 445, p. 56–61, 2010.
+
+HUNTER, J. D. Matplotlib: a 2D graphics environment.
+**Computing in Science & Engineering**, New York, v. 9, n. 3, p. 90–95, maio/jun. 2007.
+
+WASKOM, M. L. Seaborn: statistical data visualization.
+**Journal of Open Source Software**, v. 6, n. 60, p. 3021, 2021.
+
+---
+**Conteúdo de aula**
+
+ALMEIDA, James Moraes de. **Pandas**. Campinas: Ilum Escola de Ciência (CNPEM), 2026b. Notebook Jupyter (material didático não publicado).
+
+---
+
+**IA** 
+
+O desenvolvimento deste projeto contou com o auxílio do assistente de inteligência artificial Claude (Anthropic), utilizado como ferramenta de suporte para esclarecimento de dúvidas sobre o código.
+https://claude.ai/share/b9893f3a-3d0e-4125-9bfd-81e677cc8e8d 
