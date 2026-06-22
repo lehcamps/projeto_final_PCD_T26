@@ -4,7 +4,7 @@
 
 Python >= 3.13.7
 
-## Bibliotecas externas (instale com: pip install -r requisitos.txt):
+## Bibliotecas externas (instale com: pip install -r Requisitos.txt):
 
 pandas==2.2.3 
 
