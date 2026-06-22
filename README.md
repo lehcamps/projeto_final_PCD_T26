@@ -13,16 +13,28 @@ O Claude foi uilizado para melhor esturuturar o projeto e tirar algumas dúvidas
 ## Bibliotecas
 - Pandas
 - Mathplotlib
+- Seaborn
 
 # Instalação e Instruções
 
 Ápos realizar o download do repositório, é necessário criar um ambiente virtual que contenha, no mínimo, as bibliotecas citadas. Em seguida, vá até a pasta que esse repositório foi salvo em seu computadoe e execute o comando em alhum ambiente Jupyter. Isso fará com que o Notebook seja executado no ambiente virtual adequado. Caso as células não estejam executada, clique na ferramenta `Restart Kernel and Run All Cells` no ambiente do Jupyter Lab. A versão do Python utilizada é a 3.13.7.
 
+# Professores 
 
-**Docente(s):** Daniel R. Cassar, James Moraes de Almeida e Leandro Lemos.
+## Daniel Roberto Cassar
 
-**Aluno(a):** Leticia Campos da Silva, T26
+Doutorado: Ciência e Engenharia de Materiais (UFSCar) – Pós-doutorado: UFSCar. Área de atuação: Informática de materiais.
 
-Ilum Escola de Ciência, CNPEM
+## James Moraes de Almeida 
 
+Doutorado: Nanociências e Materiais Avançados (UFABC). Pós-Doutorado: UFABC, Ecole Polytechnique Fédérale de Lausanne, USP. Área de atuação: Computação de alto desempenho.
 
+## Leandro Nascimento Lemos
+
+Doutorado: Bioinformática e Ecologia de Microrganismos (USP). Pós-Doutorado: Laboratório Nacional de Computação Científica (LNCC), Unicamp e Universidade de Viena. Área de Atuação: Bioinformática e Ecologia Numérica.
+
+# Autoria 
+
+## Leticia Campos da Silva
+
+Técnica em Edificações e estudante de Ciência e Tecnologia na Ilum Escola de Ciência.
