@@ -1,10 +1,10 @@
-Requisitos 
+# Requisitos 
 
-Versão do Python: 
+## Versão do Python: 
 
 Python >= 3.13.7
 
-Bibliotecas externas (instale com: pip install -r requisitos.txt):
+## Bibliotecas externas (instale com: pip install -r requisitos.txt):
 
 pandas >= 2.2. 
 
